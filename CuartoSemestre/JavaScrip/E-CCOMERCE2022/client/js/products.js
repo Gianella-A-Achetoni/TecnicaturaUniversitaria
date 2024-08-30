@@ -1,0 +1,23 @@
+const productos =[
+    {
+        id:1,
+        productName:'Bannana',
+        price:480,
+        quanty:1,
+        imagen:''
+    },
+    {
+        id:2,
+        productName:'Manzana',
+        price:480,
+        quanty:1,
+        imagen:''
+    },
+    {
+        id:3,
+        productName:'Pera',
+        price:480,
+        quanty:1,
+        imagen:''
+    }
+]
